@@ -1,3 +1,9 @@
+# Back-End Web Development - B
+### Exercise 6 - Firebase CRUD
+Note : Code Exercise 6 lanjutan dari code Exercise 5
+
+----------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
